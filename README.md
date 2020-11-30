@@ -15,10 +15,6 @@ GCE module and passes them to the Android Library for display.
 * Project contains connected tests to verify that the async task is indeed loading jokes.
 * Project contains paid/free flavors. The paid flavor has no ads, and no unnecessary dependencies.
 
-## App screenshots
-
-![Screenshot_1566076542](https://user-images.githubusercontent.com/35550711/63650127-9fc55700-c71d-11e9-972f-67f102867adf.png)
-
 ## License
 
 Copyright 2019 Mariem Mezghani
